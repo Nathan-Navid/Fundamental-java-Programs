@@ -1,0 +1,6 @@
+# Eclipse IDE 
+bin
+.DS_Store
+.classpath
+.project
+.settings/
